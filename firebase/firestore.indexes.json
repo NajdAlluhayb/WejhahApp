@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "MyTickets",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "UserId",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "BookedDate",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253897106347",
+    "project_id": "touism-9pd4tf",
+    "storage_bucket": "touism-9pd4tf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253897106347:android:1833925e146f0f792c68ee",
+        "android_client_info": {
+          "package_name": "com.mycompany.touism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKKhuVipq7_7w7ne5ck_Y5OJyTlV0YVdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
