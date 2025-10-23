@@ -2,7 +2,7 @@ Najd Alluhayb
 Toleen Alsaleh 
 Reema Alsahli 
 Nourah Alsuhaibani 
-Atheer Alamri
+Atheer Alomari
 Lamya Alrashoudi
 [https://wejhahh.flutterflow.app/interfacebeforelogin
 ](https://wejhahh.flutterflow.app/)
